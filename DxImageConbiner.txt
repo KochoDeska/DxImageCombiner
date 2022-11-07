@@ -1,0 +1,49 @@
+######################################################
+
+DxImageConbiner ver1.0
+
+Created by KochoDeska
+
+######################################################
+
+＜概要＞
+　画像をタイル状に並べて1枚の画像として出力します。
+　PNGのみ対応（ver1.0）
+
+
+＜使い方＞
+　①DxImageConbiner.exeを起動します
+
+　②エクスプローラから画像ファイルを選択（１つでも複数でも可）し、画面内にD&D
+　　読み込み中は画面左下にゲージが現れます
+
+　③画面右上の「W」「H」の数を増減ボタンを使って増減させることで、一度に並べる画像の数を変更する
+　　W:横に並べる画像数
+　　H:縦に並べる画像数
+
+　④出力する画像サイズを選択します
+　　縦向きには未対応です（ver1.0）
+
+　⑤出力ボタンを押下すると名前を付けて保存ダイアログが表示されます
+　　ファイル名を入力し、保存ボタンで保存されます
+
+
+＜本アプリで作成した画像について＞
+・著作権は本アプリで画像を作成する前の元の画像の著作権者に帰属します
+・本アプリで作成した旨の表記は必要ございません
+
+
+＜アップデート情報＞
+[2022/11/08] ver1.0
+・DxImageConbiner.exe作成
+
+
+＜作者＞
+　胡蝶デスか？（Twitter: @KochoDeska）
+
+
+＜著作権＞
+DxImageConbiner　Copyright (C) 2022, KochoDeska
+libjpeg　Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
+libpng　Copyright (C) 2004, 2006-2012 Glenn Randers-Pehrson.
+zlib　Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
